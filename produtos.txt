@@ -21,7 +21,7 @@ Pepino Em Conserva;12.25;Conservados
 Salsicha Seara Kg;6.49;Industrualizado
 Filé De Tilápia Congelado;2.99;Carne
 Limão Taiti Kg;1.49;Fruta
-Achocolotado Nestlé Galatic;8.5;Achocolotados
+Achocolotado Nestlé;8.5;Achocolotados
 Café Coamo;33.8;Café
 Saco De Arroz;24.5;Arroz
 Linguiça;15.99;Carne
