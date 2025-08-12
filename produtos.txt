@@ -1,0 +1,31 @@
+Morango Do Amor;15.0;Doce
+Torresmo Do Amor;35.0;Proteína
+Bolo De Ouro Branco;70.0;Massa
+Coca Cola 2L;10.0;Bebidas
+Guaraná Antártica;7.0;Bebidas
+Big De Creme;11.0;Gelados
+Panceta Suína;55.0;Carnes
+Coxa Creme;22.0;Doces
+Kitkat;8.0;Doce
+Trident;3.0;Chiclete
+Bolacha Cartoon;12.0;Bolacha
+Banana Do Amor;65.0;Doce
+Fini De Dentadura;4.0;Doce
+Empanado;12.0;Salgados
+Batata Chips;5.0;Salgadinho
+Pringles;8.0;Salgadinho
+Moranguete;1.99;Doce
+Doritos;8.5;Salgadinho
+Ovo De Codorna;10.0;Ovos
+Pepino Em Conserva;12.25;Conservados
+Salsicha Seara Kg;6.49;Industrualizado
+Filé De Tilápia Congelado;2.99;Carne
+Limão Taiti Kg;1.49;Fruta
+Achocolotado Nestlé Galatic;8.5;Achocolotados
+Café Coamo;33.8;Café
+Saco De Arroz;24.5;Arroz
+Linguiça;15.99;Carne
+Erva Trots;18.5;Erva Tereré
+Erva Bitumirim;15.25;Erva Chimarrão
+Garoto;7.0;Chocolate
+Lacta;8.99;Chocolate
